@@ -1,0 +1,197 @@
+Respondent,MainBranch,Hobbyist,Age,Age1stCode,CompFreq,CompTotal,ConvertedComp,Country,CurrencyDesc,CurrencySymbol
+18,I am a developer by profession,Yes,32.0,12,Monthly,105000.0,1260000.0,United States,United States dollar,USD
+57,I am a developer by profession,No,44.0,12,Monthly,135000.0,1620000.0,United States,United States dollar,USD
+65,I am a developer by profession,Yes,34.0,13,Monthly,98000.0,1176000.0,United States,United States dollar,USD
+125,"I am not primarily a developer, but I write code sometimes as part of my work",Yes,41.0,30,Monthly,200000.0,2000000.0,United States,United States dollar,USD
+196,I am a developer by profession,Yes,23.0,15,Monthly,160000.0,1920000.0,United States,United States dollar,USD
+281,I am a developer by profession,No,26.0,16,Monthly,92000.0,1104000.0,United States,United States dollar,USD
+503,I am a developer by profession,Yes,34.0,12,Monthly,125000.0,1500000.0,United States,United States dollar,USD
+839,I am a developer by profession,Yes,38.0,14,Monthly,105000.0,1260000.0,United States,United States dollar,USD
+1076,I am a developer by profession,Yes,48.0,8,Monthly,120000.0,1440000.0,United States,United States dollar,USD
+1117,I am a developer by profession,Yes,35.0,12,Monthly,180000.0,2000000.0,United States,United States dollar,USD
+1120,I am a developer by profession,Yes,26.0,22,Monthly,95000.0,1140000.0,United States,United States dollar,USD
+1128,I am a developer by profession,Yes,32.0,12,Monthly,170000.0,2000000.0,United States,United States dollar,USD
+1302,I am a developer by profession,Yes,34.0,23,Monthly,78000.0,936000.0,United States,United States dollar,USD
+1387,I am a developer by profession,Yes,30.0,11,Monthly,113000.0,1356000.0,United States,United States dollar,USD
+1485,I am a developer by profession,Yes,28.0,19,Monthly,105000.0,1260000.0,United States,United States dollar,USD
+1569,I am a developer by profession,Yes,30.0,12,Monthly,85000.0,1020000.0,United States,United States dollar,USD
+1629,I am a developer by profession,Yes,36.0,16,Monthly,180000.0,2000000.0,United States,United States dollar,USD
+1972,I am a developer by profession,No,73.0,20,Monthly,75000.0,900000.0,United States,United States dollar,USD
+1991,I am a developer by profession,Yes,45.0,8,Monthly,130000.0,1560000.0,United States,United States dollar,USD
+2126,I am a developer by profession,Yes,34.0,16,Monthly,100000.0,1200000.0,United States,United States dollar,USD
+2260,I am a developer by profession,Yes,37.0,10,Monthly,110000.0,1320000.0,Nomadic,United States dollar,USD
+2287,I am a developer by profession,Yes,25.0,9,Monthly,77000.0,924000.0,United States,United States dollar,USD
+2348,I am a developer by profession,Yes,43.0,6,Monthly,115000.0,1380000.0,United States,United States dollar,USD
+2357,I am a developer by profession,Yes,40.0,17,Monthly,154000.0,1848000.0,United States,United States dollar,USD
+2711,I am a developer by profession,Yes,45.0,22,Monthly,164000.0,1968000.0,United States,United States dollar,USD
+2724,I am a developer by profession,Yes,27.0,17,Monthly,115000.0,1380000.0,United States,United States dollar,USD
+2792,I am a developer by profession,No,39.0,25,Monthly,100000.0,1200000.0,United States,United States dollar,USD
+2799,I am a developer by profession,Yes,25.0,21,Monthly,79000.0,948000.0,United States,United States dollar,USD
+2957,I am a developer by profession,No,30.0,25,Monthly,85000.0,1020000.0,United States,United States dollar,USD
+2977,I am a developer by profession,Yes,37.0,7,Monthly,150000.0,1800000.0,United States,United States dollar,USD
+3079,I am a developer by profession,Yes,29.0,13,Monthly,170000.0,2000000.0,United States,United States dollar,USD
+3222,I am a developer by profession,Yes,24.0,14,Monthly,149000.0,1788000.0,United States,United States dollar,USD
+3321,I am a developer by profession,Yes,42.0,10,Monthly,140000.0,1680000.0,United States,United States dollar,USD
+3364,I am a developer by profession,Yes,27.0,9,Monthly,120000.0,1440000.0,United States,United States dollar,USD
+3570,I am a developer by profession,Yes,35.0,25,Monthly,155000.0,1860000.0,United States,United States dollar,USD
+3908,I am a developer by profession,Yes,30.0,18,Monthly,115000.0,1380000.0,United States,United States dollar,USD
+3958,"I am not primarily a developer, but I write code sometimes as part of my work",Yes,32.0,25,Monthly,160000.0,1920000.0,United States,United States dollar,USD
+4072,I am a developer by profession,No,32.0,9,Monthly,150000.0,1800000.0,United States,United States dollar,USD
+4074,I am a developer by profession,Yes,,14,Monthly,150000.0,1800000.0,United States,United States dollar,USD
+4140,I am a developer by profession,Yes,29.0,13,Monthly,86500.0,1038000.0,United States,United States dollar,USD
+4321,I am a developer by profession,Yes,28.0,18,Monthly,88000.0,1056000.0,United States,United States dollar,USD
+4447,I am a developer by profession,Yes,37.0,11,Monthly,140000.0,1680000.0,United States,United States dollar,USD
+4561,"I am not primarily a developer, but I write code sometimes as part of my work",No,38.0,15,Monthly,105000.0,1260000.0,United States,United States dollar,USD
+4657,I am a developer by profession,No,32.0,13,Monthly,257000.0,2000000.0,United States,United States dollar,USD
+4686,I am a developer by profession,No,34.0,9,Monthly,220000.0,2000000.0,United States,United States dollar,USD
+4810,I am a developer by profession,Yes,30.0,18,Monthly,106000.0,1272000.0,United States,United States dollar,USD
+4996,I am a developer by profession,Yes,40.0,13,Monthly,98000.0,1176000.0,Argentina,United States dollar,USD
+5031,I am a developer by profession,No,26.0,16,Monthly,95000.0,1140000.0,United States,United States dollar,USD
+5185,I am a developer by profession,Yes,44.0,10,Monthly,185000.0,2000000.0,United States,United States dollar,USD
+5652,I am a developer by profession,Yes,37.0,16,Monthly,140000.0,1680000.0,United States,United States dollar,USD
+5725,I am a developer by profession,No,26.0,14,Monthly,180000.0,2000000.0,Canada,United States dollar,USD
+6305,I am a developer by profession,Yes,29.0,12,Monthly,101824.0,1221888.0,United States,United States dollar,USD
+8552,I am a developer by profession,Yes,,13,Monthly,85000.0,1020000.0,Malaysia,United States dollar,USD
+9835,I am a developer by profession,No,47.0,Younger than 5 years,Monthly,5000000000.0,2000000.0,United States,United States dollar,USD
+13371,I am a developer by profession,Yes,25.0,17,Monthly,80000.0,960000.0,United States,United States dollar,USD
+14936,I am a developer by profession,No,32.0,12,Monthly,135000.0,1620000.0,United States,United States dollar,USD
+15007,I am a developer by profession,No,,24,Monthly,75000.0,900000.0,United States,United States dollar,USD
+15525,I am a developer by profession,Yes,31.0,15,Monthly,125000.0,1500000.0,United States,United States dollar,USD
+15799,I am a developer by profession,Yes,,12,Monthly,72000.0,864000.0,United States,United States dollar,USD
+15825,I am a developer by profession,No,27.0,15,Monthly,93000.0,1116000.0,United States,United States dollar,USD
+16634,I am a developer by profession,No,28.0,19,Monthly,120000.0,1440000.0,United States,United States dollar,USD
+16829,"I am not primarily a developer, but I write code sometimes as part of my work",Yes,39.0,10,Monthly,200000.0,2000000.0,United States,United States dollar,USD
+16950,I am a developer by profession,Yes,29.0,10,Monthly,97125.0,1165500.0,United States,United States dollar,USD
+17048,I am a developer by profession,Yes,35.0,8,Monthly,250000.0,2000000.0,United States,United States dollar,USD
+17496,I am a developer by profession,No,41.0,16,Monthly,92000.0,1104000.0,United States,United States dollar,USD
+17515,I am a developer by profession,Yes,25.0,13,Monthly,115000.0,1380000.0,United States,United States dollar,USD
+17689,I am a developer by profession,Yes,35.0,13,Monthly,85000.0,1020000.0,United States,United States dollar,USD
+17721,I am a developer by profession,Yes,26.0,19,Monthly,80000.0,960000.0,United States,United States dollar,USD
+18194,I am a developer by profession,Yes,28.0,10,Monthly,238000.0,2000000.0,United States,United States dollar,USD
+18295,I am a developer by profession,No,30.0,20,Monthly,160000.0,1920000.0,United States,United States dollar,USD
+18565,I am a developer by profession,No,45.0,10,Monthly,120000.0,1440000.0,United States,United States dollar,USD
+18726,I am a developer by profession,Yes,23.0,17,Monthly,150000.0,1800000.0,United States,United States dollar,USD
+19321,"I am not primarily a developer, but I write code sometimes as part of my work",Yes,54.0,15,Monthly,110000.0,1320000.0,United States,United States dollar,USD
+19359,I am a developer by profession,No,28.0,11,Monthly,75000.0,900000.0,United States,United States dollar,USD
+19710,I am a developer by profession,Yes,61.0,16,Monthly,120000.0,1440000.0,United States,United States dollar,USD
+19938,I am a developer by profession,Yes,22.0,14,Monthly,75000.0,900000.0,United States,United States dollar,USD
+20234,I am a developer by profession,Yes,36.0,11,Monthly,78000.0,936000.0,United States,United States dollar,USD
+20644,I am a developer by profession,Yes,26.0,5,Monthly,171000.0,2000000.0,United States,United States dollar,USD
+20679,I am a developer by profession,Yes,34.0,8,Monthly,150000.0,1800000.0,United States,United States dollar,USD
+20885,I am a developer by profession,Yes,23.0,17,Monthly,135000.0,1620000.0,United States,United States dollar,USD
+21196,I am a developer by profession,No,40.0,7,Monthly,250000.0,2000000.0,United States,United States dollar,USD
+21604,I am a developer by profession,Yes,39.0,19,Monthly,90000.0,1080000.0,Ecuador,United States dollar,USD
+22676,I am a developer by profession,Yes,30.0,15,Monthly,120000.0,1440000.0,United States,United States dollar,USD
+23681,I am a developer by profession,No,34.0,15,Monthly,85000.0,1020000.0,United States,United States dollar,USD
+24583,I am a developer by profession,No,,15,Monthly,110000.0,1320000.0,United States,United States dollar,USD
+24709,I am a developer by profession,Yes,42.0,8,Monthly,89000.0,1068000.0,United States,United States dollar,USD
+25178,"I am not primarily a developer, but I write code sometimes as part of my work",Yes,32.0,13,Monthly,90000.0,1080000.0,United States,United States dollar,USD
+25181,I am a developer by profession,Yes,30.0,14,Monthly,450000.0,2000000.0,United States,United States dollar,USD
+25687,I am a developer by profession,Yes,23.0,13,Monthly,140000.0,1680000.0,United States,United States dollar,USD
+26051,I am a developer by profession,Yes,23.0,14,Monthly,90000.0,1080000.0,United States,United States dollar,USD
+26181,I am a developer by profession,No,,24,Monthly,195000.0,2000000.0,United States,United States dollar,USD
+27462,I am a developer by profession,Yes,31.0,14,Monthly,140000.0,1680000.0,United States,United States dollar,USD
+27623,"I am not primarily a developer, but I write code sometimes as part of my work",Yes,40.0,9,Monthly,330000.0,2000000.0,United States,United States dollar,USD
+27634,I am a developer by profession,Yes,36.0,14,Monthly,80000.0,960000.0,United States,United States dollar,USD
+27871,I am a developer by profession,Yes,22.0,16,Monthly,80000.0,960000.0,United States,United States dollar,USD
+27921,I am a developer by profession,No,48.0,12,Monthly,155000.0,1860000.0,United States,United States dollar,USD
+28418,I am a developer by profession,Yes,21.0,16,Monthly,105000.0,1260000.0,United States,United States dollar,USD
+28954,I am a developer by profession,Yes,41.0,8,Monthly,100000.0,1200000.0,Israel,United States dollar,USD
+29266,I am a developer by profession,Yes,26.0,15,Monthly,105000.0,1260000.0,United States,United States dollar,USD
+29702,I am a developer by profession,No,42.0,35,Monthly,92000.0,1104000.0,United States,United States dollar,USD
+29876,I am a developer by profession,Yes,34.0,16,Monthly,138000.0,1656000.0,United States,United States dollar,USD
+30176,I am a developer by profession,Yes,45.0,14,Monthly,420000.0,2000000.0,United States,United States dollar,USD
+30672,I am a developer by profession,Yes,33.0,11,Monthly,148000.0,1776000.0,United States,United States dollar,USD
+32316,I am a developer by profession,Yes,31.0,9,Monthly,155000.0,1860000.0,United States,United States dollar,USD
+32340,I am a developer by profession,No,38.0,10,Monthly,117000.0,1404000.0,United States,United States dollar,USD
+32482,I am a developer by profession,No,44.0,9,Monthly,125000.0,1500000.0,United States,United States dollar,USD
+32546,I am a developer by profession,Yes,43.0,10,Monthly,190000.0,2000000.0,United States,United States dollar,USD
+32596,I am a developer by profession,No,,11,Monthly,110000.0,1320000.0,United States,United States dollar,USD
+32618,I am a developer by profession,Yes,37.0,12,Monthly,115000.0,1380000.0,United States,United States dollar,USD
+32828,I am a developer by profession,Yes,38.0,20,Monthly,100000.0,1200000.0,United States,United States dollar,USD
+32935,I am a developer by profession,No,29.0,25,Monthly,125000.0,1500000.0,United States,United States dollar,USD
+33055,I am a developer by profession,No,26.0,14,Monthly,125000.0,1500000.0,United States,United States dollar,USD
+33254,I am a developer by profession,No,38.0,18,Monthly,200000.0,2000000.0,United States,United States dollar,USD
+33278,I am a developer by profession,No,44.0,Younger than 5 years,Monthly,140000.0,1680000.0,United States,United States dollar,USD
+33374,I am a developer by profession,Yes,30.0,7,Monthly,130000.0,1560000.0,United States,United States dollar,USD
+33832,I am a developer by profession,Yes,22.0,19,Monthly,86000.0,1032000.0,United States,United States dollar,USD
+33846,I am a developer by profession,Yes,29.0,11,Monthly,140000.0,1680000.0,United States,United States dollar,USD
+33865,I am a developer by profession,Yes,35.0,15,Monthly,250000.0,2000000.0,United States,United States dollar,USD
+34516,I am a developer by profession,Yes,40.0,12,Monthly,106000.0,1272000.0,United States,United States dollar,USD
+34703,I am a developer by profession,Yes,24.0,12,Monthly,80125.0,961500.0,United States,United States dollar,USD
+34764,I am a developer by profession,Yes,29.0,24,Monthly,88000.0,1056000.0,United States,United States dollar,USD
+35223,I am a developer by profession,Yes,51.0,14,Monthly,120000.0,1440000.0,United States,United States dollar,USD
+35247,"I am not primarily a developer, but I write code sometimes as part of my work",No,34.0,15,Monthly,72000.0,864000.0,United States,United States dollar,USD
+35387,I am a developer by profession,No,,23,Monthly,96000.0,1152000.0,United States,United States dollar,USD
+35767,I am a developer by profession,Yes,,6,Monthly,215000.0,2000000.0,United States,United States dollar,USD
+36453,I am a developer by profession,Yes,,14,Monthly,104500.0,1254000.0,United States,United States dollar,USD
+37655,I am a developer by profession,No,,15,Monthly,150000.0,1800000.0,India,United States dollar,USD
+38939,I am a developer by profession,Yes,39.0,14,Monthly,148000.0,1776000.0,United States,United States dollar,USD
+40174,I am a developer by profession,No,,16,Monthly,107500.0,1290000.0,United States,United States dollar,USD
+40307,I am a developer by profession,Yes,,14,Monthly,230000.0,2000000.0,United States,United States dollar,USD
+42783,I am a developer by profession,Yes,,19,Monthly,120000.0,1440000.0,United States,United States dollar,USD
+42922,"I am not primarily a developer, but I write code sometimes as part of my work",Yes,34.0,13,Monthly,110000.0,1320000.0,United States,United States dollar,USD
+43430,I am a developer by profession,Yes,33.0,17,Monthly,171000.0,2000000.0,Italy,United States dollar,USD
+43509,I am a developer by profession,Yes,28.0,19,Monthly,94300.0,1131600.0,United States,United States dollar,USD
+44211,I am a developer by profession,Yes,49.0,13,Monthly,150000.0,1800000.0,United States,United States dollar,USD
+44359,I am a developer by profession,Yes,,20,Monthly,100000.0,1200000.0,Germany,United States dollar,USD
+45233,I am a developer by profession,Yes,29.0,11,Monthly,89000.0,1068000.0,United States,United States dollar,USD
+45342,I am a developer by profession,Yes,29.0,13,Monthly,120000.0,1440000.0,United States,United States dollar,USD
+45362,I am a developer by profession,Yes,,10,Monthly,190000.0,2000000.0,United States,United States dollar,USD
+45965,I am a developer by profession,Yes,25.0,19,Monthly,90000.0,1080000.0,United States,United States dollar,USD
+46863,I am a developer by profession,No,28.0,18,Monthly,225000.0,2000000.0,United States,United States dollar,USD
+47592,I am a developer by profession,Yes,,18,Monthly,280000.0,2000000.0,United States,United States dollar,USD
+47681,I am a developer by profession,Yes,32.0,12,Monthly,85000.0,1020000.0,United States,United States dollar,USD
+47834,I am a developer by profession,No,23.0,18,Monthly,120000.0,1440000.0,United States,United States dollar,USD
+47952,I am a developer by profession,Yes,19.0,12,Monthly,71000.0,852000.0,United States,United States dollar,USD
+48086,"I am not primarily a developer, but I write code sometimes as part of my work",Yes,32.0,25,Monthly,95275.0,1143300.0,United States,United States dollar,USD
+48162,I am a developer by profession,No,39.0,29,Monthly,135400.0,1624800.0,United States,United States dollar,USD
+48219,"I am not primarily a developer, but I write code sometimes as part of my work",Yes,,16,Monthly,77000.0,924000.0,United States,United States dollar,USD
+48380,I am a developer by profession,No,30.0,14,Monthly,107000.0,1284000.0,United States,United States dollar,USD
+48546,I am a developer by profession,Yes,47.0,18,Monthly,200000.0,2000000.0,United States,United States dollar,USD
+49442,I am a developer by profession,No,,7,Monthly,550000.0,2000000.0,United States,United States dollar,USD
+49496,I am a developer by profession,Yes,30.0,15,Monthly,90000.0,1080000.0,United States,United States dollar,USD
+49636,I am a developer by profession,Yes,30.0,18,Monthly,150000.0,1800000.0,United States,United States dollar,USD
+49755,I am a developer by profession,Yes,43.0,10,Monthly,105000.0,1260000.0,United States,United States dollar,USD
+50130,I am a developer by profession,Yes,35.0,14,Monthly,100000.0,1200000.0,United States,United States dollar,USD
+50141,I am a developer by profession,No,32.0,18,Monthly,106000.0,1272000.0,United States,United States dollar,USD
+50882,I am a developer by profession,Yes,,8,Monthly,170000.0,2000000.0,United States,United States dollar,USD
+51126,I am a developer by profession,Yes,25.0,16,Monthly,105000.0,1260000.0,United States,United States dollar,USD
+51175,"I am not primarily a developer, but I write code sometimes as part of my work",Yes,24.0,13,Monthly,79000.0,948000.0,United States,United States dollar,USD
+51290,I am a developer by profession,Yes,28.0,13,Monthly,95000.0,1140000.0,United States,United States dollar,USD
+51294,I am a developer by profession,Yes,26.0,12,Monthly,230000.0,2000000.0,United States,United States dollar,USD
+51392,I am a developer by profession,No,29.0,14,Monthly,160000.0,1920000.0,United States,United States dollar,USD
+51750,I am a developer by profession,No,30.0,16,Monthly,95000.0,1140000.0,United States,United States dollar,USD
+51994,I am a developer by profession,Yes,58.0,15,Monthly,165000.0,1980000.0,United States,United States dollar,USD
+52020,"I am not primarily a developer, but I write code sometimes as part of my work",Yes,26.0,16,Monthly,220500.0,2000000.0,United States,United States dollar,USD
+52043,I am a developer by profession,Yes,27.0,14,Monthly,250000.0,2000000.0,United States,United States dollar,USD
+52414,I am a developer by profession,Yes,26.0,15,Monthly,170000.0,2000000.0,United States,United States dollar,USD
+52437,I am a developer by profession,Yes,24.0,18,Monthly,80000.0,960000.0,United States,United States dollar,USD
+53238,I am a developer by profession,Yes,28.0,12,Monthly,310500.0,2000000.0,United States,United States dollar,USD
+53595,I am a developer by profession,Yes,38.0,12,Monthly,125000.0,1500000.0,United States,United States dollar,USD
+53597,I am a developer by profession,Yes,23.0,16,Monthly,145000.0,1740000.0,United States,United States dollar,USD
+53620,I am a developer by profession,Yes,33.0,23,Monthly,110000.0,1320000.0,United States,United States dollar,USD
+53629,"I am not primarily a developer, but I write code sometimes as part of my work",Yes,60.0,21,Monthly,250000.0,2000000.0,United States,United States dollar,USD
+53874,I am a developer by profession,Yes,,12,Monthly,200000.0,2000000.0,United States,United States dollar,USD
+54133,I am a developer by profession,Yes,35.0,24,Monthly,95000.0,1140000.0,United States,United States dollar,USD
+54426,I am a developer by profession,Yes,,12,Monthly,80000.0,960000.0,United States,United States dollar,USD
+54542,I am a developer by profession,Yes,26.0,12,Monthly,250500.0,2000000.0,United States,United States dollar,USD
+55140,I am a developer by profession,Yes,22.0,12,Monthly,91000.0,1092000.0,United States,United States dollar,USD
+57202,I am a developer by profession,Yes,25.0,18,Monthly,75000.0,900000.0,United States,United States dollar,USD
+57311,"I am not primarily a developer, but I write code sometimes as part of my work",Yes,37.0,13,Monthly,150000.0,1800000.0,United States,United States dollar,USD
+57713,I am a developer by profession,Yes,35.0,28,Monthly,120000.0,1440000.0,United States,United States dollar,USD
+59213,I am a developer by profession,Yes,24.0,18,Monthly,106000.0,1272000.0,United States,United States dollar,USD
+59279,I am a developer by profession,Yes,,12,Monthly,300000.0,2000000.0,Nepal,United States dollar,USD
+59480,I am a developer by profession,No,24.0,21,Monthly,153000.0,1836000.0,United States,United States dollar,USD
+60517,I am a developer by profession,Yes,27.0,18,Monthly,85200.0,1022400.0,United States,United States dollar,USD
+60666,I am a developer by profession,Yes,,14,Monthly,190000.0,2000000.0,United States,United States dollar,USD
+60920,I am a developer by profession,Yes,34.0,31,Monthly,160000.0,1920000.0,United States,United States dollar,USD
+61117,I am a developer by profession,Yes,28.0,12,Monthly,350000.0,2000000.0,United States,United States dollar,USD
+61509,I am a developer by profession,Yes,23.0,18,Monthly,120000.0,1440000.0,United States,United States dollar,USD
+61895,I am a developer by profession,Yes,23.0,16,Monthly,140000.0,1680000.0,United States,United States dollar,USD
+61963,"I am not primarily a developer, but I write code sometimes as part of my work",Yes,34.0,14,Monthly,112000.0,1344000.0,United States,United States dollar,USD
+62040,I am a developer by profession,No,26.0,19,Monthly,208000.0,2000000.0,United States,United States dollar,USD
+62197,I am a developer by profession,Yes,,15,Monthly,130000.0,1560000.0,United States,United States dollar,USD
+62592,I am a developer by profession,Yes,,8,Monthly,130000.0,1560000.0,United States,United States dollar,USD
+65341,I am a developer by profession,Yes,,11,Monthly,350000.0,2000000.0,United States,United States dollar,USD
+65527,I am a developer by profession,Yes,,11,Monthly,450000.0,2000000.0,United States,United States dollar,USD
