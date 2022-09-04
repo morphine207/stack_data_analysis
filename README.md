@@ -13,5 +13,4 @@ $ Cleaning data: casting datatypes and handling missing values
 Then on the other file 'Sublime_graph' I have used the .csv and .xlsx generated from the stack_analysis.ipyb to plot and map data in the form of graphs of different kinds
 these tasks I have performed in Sublime text3 using matplotlib
 1.bar.py
-2.pie.py
- 
+2.pie.pi
